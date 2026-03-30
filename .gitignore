@@ -57,3 +57,13 @@ claudedocs/
 
 # Zensical
 site/
+
+# Playwright browsers
+.playwright/
+
+# Local dev files (fork-specific)
+DEV_ENV_MEMO.md
+KOHARU_DOWNLOADER_MEMO.md
+requirements.docs.txt
+downloader-ui/
+scripts/*.ps1
